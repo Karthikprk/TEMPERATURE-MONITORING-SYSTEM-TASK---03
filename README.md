@@ -25,7 +25,7 @@ This project is an embedded system application that measures and monitors temper
 | I2C LCD 16x2       | 1        | Displays temperature readings              |
 | LED / Buzzer       | 1 (opt)  | Alert indication                           |
 | Jumper Wires       | ~6       | For wiring                                 |
-| Breadboard         | 1        | For circuit assembly                       |
+
 
 ---
 
